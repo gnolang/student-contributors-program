@@ -1,6 +1,6 @@
 # Student Contributor Program
 
-## Rouen Cohort
+## Zone01 - Rouen/FR Cohort
 
 The Student Contributor Program is an opportunity to work closely with smart and innovative students/recent Graduates who are willing to experiment by building their idea on the [Gno.land](http://Gno.land) smart contract platform. 
 
