@@ -1,4 +1,4 @@
-# Student Contributor Program
+# Student Contributors Program
 
 ## Zone01 - Rouen/FR Cohort
 
