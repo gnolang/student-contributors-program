@@ -42,12 +42,12 @@ The student **can experiment by building:**
 | Phase | Dates  |
 | --- | --- |
 | Onboarding week  |  |
-| Onboarding  | Feb 12th |
+| Onboarding  | Feb 26th |
 | Phase 1 - Experiment Phase |  |
-| 1st Experiment Bootcamp  | Feb 12th |
-| Probation Review | Feb 19th  |
+| 1st Experiment Bootcamp  | Feb 26th |
+| Probation Review | March 4th  |
 | Phase 2 - Junior Builder Program Phase |  |
-| 2nd Junior builders completion| May 11th  |
+| 2nd Junior builders completion| May 17th  |
 |  | Potential extension to 4th months |
 
 ****
@@ -61,9 +61,8 @@ This is the educational phase, where the students would be educated on Gno, Gnol
 - suggestions / ideas of what they can try to do
 - doc with list of contact/channels and how to communicate and make their reports
 
- 
 
-This stage lasts up to two weeks. 
+This stage lasts up to one week. 
 
 At the end of this phase, we decide if the students go to the next stage, which is the Proof of Concept/Prototype phase. We ask for a reporting, providing feedback and preparing for phase 2. 
 
