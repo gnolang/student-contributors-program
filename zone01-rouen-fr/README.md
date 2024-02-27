@@ -11,7 +11,7 @@ The Student Contributor Program is an opportunity to work closely with smart and
 - @digix666
 - @mous1985
 - @kazai777
-- TBC
+- @MalekLahbib
 
 **Duration**: 3 months ( with potential extension to 4 months)
 
@@ -76,6 +76,6 @@ We will hold Junior Builder Cohort Hours with Manfred to help you dive deep into
 
 @moul is going to be your main guide.
 
-Our Developer Relations team @waymobetta, @michelleellen and @leohhhn aim to provide the cohort with additional support, to unblock any technical issues you face in the development of your project, or to provide you with further guidance and documentation material. 
+Our Developer Relations team @waymobetta, @michelleellen @leohhhn and @VT-Cosmos aim to provide the cohort with additional support, to unblock any technical issues you face in the development of your project, or to provide you with further guidance and documentation material. 
 
 
