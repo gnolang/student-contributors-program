@@ -76,8 +76,6 @@ We will hold Junior Builder Cohort Hours with Manfred to help you dive deep into
 
 @moul is going to be your main guide.
 
-Our Developer Relations team @waymobetta, @michelleellen and @leohhhn aims to provide the cohort with additional support, to unblock any technical issues you face in the development of your project, or to provide you with further guidance and documentation material. 
+Our Developer Relations team @waymobetta, @michelleellen and @leohhhn aim to provide the cohort with additional support, to unblock any technical issues you face in the development of your project, or to provide you with further guidance and documentation material. 
 
-We will have our Github channel to keep track. The link will be shared following our set up. 
 
-Our developer relations team will have bi-weekly support call with the students (in group) to resolve questions.
