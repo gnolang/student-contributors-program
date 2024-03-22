@@ -82,8 +82,8 @@ Over weekly talks and workshops, we intend to introduce Gno.land and demonstrate
 Sourcing Phase : Application Process
 
 
-**Prerequisites for applying for the program
-**	
+**Prerequisites for applying for the program**	
+
 Basic knowledge of the Go language
 
 **Participant Profile:**
