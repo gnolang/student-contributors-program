@@ -5,8 +5,7 @@ The Student Contributor Program runs 3 to 4 months.
 
 Size of the Cohort: (Ideally) Up to 6 students per university
 
-**Hands-on Engagement from Blockchain Industry Experts
-**
+**Hands-on Engagement from Blockchain Industry Experts**
 The Student Contributors will have access to hands-on support by Gno.land Contributors. Selected applicants will have the chance to share knowledge with technical and industry mentors who will provide guidance to accelerate their progress. The selected student contributors will participate in a bootcamp including workshops and office hours.
 
 **What We Are Looking for**
@@ -35,15 +34,22 @@ Sourcing phase
 
 
 Application Deadline : TBD
+
 Onboarding: 1 week
+
 Phase 1/ Experiment Phase
+
 1st Experiment Bootcamp: 6 weeks
+
 Probation Review: During the 6th week
+
 Phase 2/ Junior Builder Program Phase
+
 2nd Junior builders Office Hours: 10 weeks
+
 Final Pitch Round: End of 10th week
 
-**What We Offer **
+**What We Offer**
 **Funding to Experiment**
 
 We are offering two funding phases: The initial funding phase is called Experiment Funding. Once the experiment phase is final and the supervisor deems read, the second phase will lead to Junior Builders Funding.
