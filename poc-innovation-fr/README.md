@@ -37,7 +37,7 @@ The student **can experiment by building:**
 - Porting Web3 Contracts (Solidity, WASM, …) to Gno.land
 - Architecture and Design: Tokenomics, Governance, DAO…
 
-## **Program Dates ( Feb - June 2024) (1st Cohort)**
+## **Program Dates ( June - August 2024) (1st Cohort)**
 
 | Phase | Dates  |
 | --- | --- |
