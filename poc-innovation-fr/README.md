@@ -63,7 +63,7 @@ This is the educational phase, where the students would be educated on Gno, Gnol
 
  
 
-This stage lasts up to two weeks. 
+This stage lasts up until end of June. 
 
 At the end of this phase, we decide if the students go to the next stage, which is the Proof of Concept/Prototype phase. We ask for a reporting, providing feedback and preparing for phase 2. 
 
