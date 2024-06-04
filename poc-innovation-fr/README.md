@@ -2,6 +2,8 @@
 
 The Student Contributor Program is an opportunity to work closely with smart and innovative students/recent Graduates who are willing to experiment by building their idea on the [Gno.land](http://Gno.land) smart contract platform. 
 
+Follow the [hackerspace repo](https://github.com/gnolang/hackerspace/issues/59) for updates.
+
 ## **Scope of the project**
 
 ### Cohort Details: based in France
