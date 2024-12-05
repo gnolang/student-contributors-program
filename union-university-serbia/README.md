@@ -3,7 +3,9 @@ The Student Contributor Program is an opportunity to work closely with smart and
 Follow the hackerspace repo for updates.
 
 Scope of the project
-Cohort Details: based in France
+
+Cohort Details: based in Serbia
+
 @stefann-01
 @JJOptimist
 @matijamarjanovic
