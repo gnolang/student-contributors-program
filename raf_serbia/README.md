@@ -31,9 +31,9 @@ That being said, we have suggestions below to initiate some ideas:
 
 **Contracts:** Simple Apps, Games, DeFi platforms… Developer Tools: IDE plugins, CI/CD, Linters, Analyzers… Generic/Reusable Libraries Integration/Client: Python/Node… Client, Bridge with other Systems Porting Web2 Apps to Gno.land Porting Web3 Contracts (Solidity, WASM, …) to Gno.land Architecture and Design: Tokenomics, Governance, DAO…
 
-**Program Dates **( December 6th 2024 - March 5th 2025) (1st Cohort) 
+**Program Dates** ( December 6th 2024 - March 5th 2025) (1st Cohort) 
 
-**Phase Dates **
+**Phase Dates**
 
 Onboarding week Onboarding December 6th 
 Phase 1 - Experiment Phase 1st Experiment Bootcamp December 6th 
