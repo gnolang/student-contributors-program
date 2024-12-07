@@ -1,37 +1,43 @@
-**Student Contributors Program**
-We are launching the Student Contributor Program in search of students or recent graduates who are willing to experiment with building their ideas on the Gno.land smart contract platform.
+# Student Contributors Program
 
-The Student Contributor Program runs 3 to 4 months.
+We are launching the Student Contributor Program in search of students or 
+recent graduates who are willing to experiment with building their ideas on the 
+gno.land smart contract platform.
 
-Size of the Cohort: (Ideally) Up to 6 students per university
+The Student Contributor Program length is 3 to 4 months.
 
-**Hands-on Engagement from Blockchain Industry Experts**
-The Student Contributors will have access to hands-on support by Gno.land Contributors. Selected applicants will have the chance to share knowledge with technical and industry mentors who will provide guidance to accelerate their progress. The selected student contributors will participate in a bootcamp including workshops and office hours.
+The program happens in cohorts, with the size of the cohort ideally being 6 persons.
 
-**What We Are Looking for**
+### Hands-on Engagement from Blockchain Industry Experts
 
-This is an open playground for individual students to develop their own ideas to build on Gno.land without limiting them to predefined projects.
+The Student Contributors will have access to hands-on support from gno.land
+Contributors. Selected applicants will have the chance to share knowledge with 
+technical and industry mentors who will provide guidance to accelerate their 
+progress. The selected student contributors will participate in a bootcamp
+including workshops and office hours.
+
+### What We Are Looking for
+
+This is an open playground for individual students to develop their own ideas and
+build on top of gno.land without limiting them to predefined projects.
 
 We are open to hearing any **‘WildCardʼ** suggestions!
 
-That being said, we have listed some general areas for consideration below to trigger your ideas:
+That being said, we have listed some general areas of the possible contributions
+to serve as inspiration. 
 
 You can experiment by building:
-
-
-	Contracts: Simple Apps, Games, DeFi platforms…
-	Developer Tools: IDE plugins, CI/CD, Linters, Analyzers… 	Generic/Reusable Libraries
-	Integration/Client: Python/Node… Client, Bridge with other Systems 	Porting Web2 Apps to Gno.land
-	Porting Web3 Contracts (Solidity, WASM, …) to Gno.land
-	Architecture and Design: Tokenomics, Governance, DAO…
-
+- Contracts: Simple Apps, Games, DeFi platforms…
+- Developer Tools: IDE plugins, CI/CD, Linters, Analyzers… 	Generic/Reusable Libraries
+- Integration/Client: Python/Node… Client, Bridge with other Systems 	Porting Web2 Apps to gno.land
+- Porting Web3 Contracts (Solidity, WASM, …) to gno.land
+- Architecture and Design: Tokenomics, Governance, DAO…
 
 **Program Dates (2024) (1st Cohort)**
 
 Phase
 Dates
 Sourcing phase
-
 
 Application Deadline : TBD
 
@@ -71,9 +77,9 @@ or prototype your idea.
 
 **How it works**
 
-**Introduction to Gno.land**
+**Introduction to gno.land**
 
-Over weekly talks and workshops, we intend to introduce Gno.land and demonstrate Gnolang at the university:
+Over weekly talks and workshops, we intend to introduce gno.land and demonstrate Gnolang at the university:
 	
  Introduction Blockchain and Smart Contracts
 	
@@ -118,7 +124,7 @@ At the end of this phase, our team decides if you pass to the next stage, which 
 
 Once you pass the initial phase, we provide a chance to turn your experiment into a proof of concept, a prototype, or simply advance your proposal into further experiments showcasing outcomes.
 
-We will hold Junior Builder Cohort Hours with the Gno.land team to help you dive deep into the challenges you are facing in your experiment, ideate solutions, and refine your solutions.
+We will hold Junior Builder Cohort Hours with the gno.land team to help you dive deep into the challenges you are facing in your experiment, ideate solutions, and refine your solutions.
 
 **Final Pitch Round**
 
