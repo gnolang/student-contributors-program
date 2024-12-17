@@ -15,7 +15,7 @@ Follow the hackerspace repo for updates.
 
 ## **Duration: December 6th - March 5**
 
-## **Hours: Part Time**
+## **Hours: Part-Time**
 
 # **What We Are Looking for**
 
