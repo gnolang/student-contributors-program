@@ -1,12 +1,18 @@
-**Student Contributors Program**
+***Student Contributors Program***
+
 We are launching the Student Contributor Program in search of students or recent graduates who are willing to experiment with building their ideas on the Gno.land smart contract platform.
 
 The Student Contributor Program runs 3 to 4 months.
 
 Size of the Cohort: (Ideally) Up to 6 students per university
 
+
+
 **Hands-on Engagement from Blockchain Industry Experts**
+
 The Student Contributors will have access to hands-on support by Gno.land Contributors. Selected applicants will have the chance to share knowledge with technical and industry mentors who will provide guidance to accelerate their progress. The selected student contributors will participate in a bootcamp including workshops and office hours.
+
+
 
 **What We Are Looking for**
 
@@ -19,31 +25,27 @@ That being said, we have listed some general areas for consideration below to tr
 You can experiment by building:
 
 
-	Contracts: Simple Apps, Games, DeFi platforms…
-	Developer Tools: IDE plugins, CI/CD, Linters, Analyzers… 	Generic/Reusable Libraries
-	Integration/Client: Python/Node… Client, Bridge with other Systems 	Porting Web2 Apps to Gno.land
-	Porting Web3 Contracts (Solidity, WASM, …) to Gno.land
-	Architecture and Design: Tokenomics, Governance, DAO…
+	* Contracts: Simple Apps, Games, DeFi platforms…
+	* Developer Tools: IDE plugins, CI/CD, Linters, Analyzers… 	
+ 	* Generic/Reusable Libraries
+	* Integration/Client: Python/Node… Client, Bridge with other Systems 	
+ 	* Porting Web2 Apps to Gno.land
+	* Porting Web3 Contracts (Solidity, WASM, …) to Gno.land
+	* Architecture and Design: Tokenomics, Governance, DAO…
+
 
 
 **Program Dates (2024) (1st Cohort)**
 
-Phase
-Dates
-Sourcing phase
-
-
-Application Deadline : TBD
-
 Onboarding: 1 week
 
-Phase 1/ Experiment Phase
+**Phase 1/ Experiment Phase**
 
 1st Experiment Bootcamp: 6 weeks
 
 Probation Review: During the 6th week
 
-Phase 2/ Junior Builder Program Phase
+**Phase 2/ Junior Builder Program Phase**
 
 2nd Junior builders Office Hours: 10 weeks
 
@@ -53,6 +55,7 @@ Final Pitch Round: End of 10th week
 **Funding to Experiment**
 
 We are offering two funding phases: The initial funding phase is called Experiment Funding. Once the experiment phase is final and the supervisor deems read, the second phase will lead to Junior Builders Funding.
+
 
 
 ****Experiment Funding****
@@ -69,17 +72,18 @@ After submission of the first phase of the experiment at the end of the 6-week p
 key targets. These three months are an opportunity to finalize a Proof of Concept
 or prototype your idea.
 
+
 **How it works**
 
 **Introduction to Gno.land**
 
 Over weekly talks and workshops, we intend to introduce Gno.land and demonstrate Gnolang at the university:
 	
- Introduction Blockchain and Smart Contracts
+* Introduction Blockchain and Smart Contracts
 	
- Best practices workshop (gno, realms, packages)
+* Best practices workshop (gno, realms, packages)
 
-Sourcing Phase : Application Process
+* Sourcing Phase : Application Process
 
 
 **Prerequisites for applying for the program**	
@@ -92,7 +96,7 @@ The proposed cohort will be working in an unexplored land and needs to be curiou
 
 Afterward, with the help of the university, we hope to source individuals/ teams based on a competitive application process. Ideally we are looking for 5/6 students per cohort.
 
-Student Contributor Program Application
+**Student Contributor Program Application**
 
 We will review and respond to shortlisted applicants within two weeks of submission
 
@@ -108,9 +112,7 @@ The funding at this phase is paid regardless of the outcome of the report.
 
 We support your experiment by providing workshops. Our team is happy to assist you with your questions.
 
-Our Bootcamp includes xx workshops  Gnolang
-
-Building on Gno  Q&A session
+Our Bootcamp includes workshops on Gnolang, Building on Gno and Q&A session.
 
 At the end of this phase, our team decides if you pass to the next stage, which is the Proof of Concept/Prototype phase.
 
@@ -129,6 +131,8 @@ Take the stage to tell your story and demo your progress.
 The team will decide whether to provide further funding for scalable projects by offering entry into our grant program. The aim is to help your project become a stand-alone profitable business.
 
 Alternatively, you could apply for a vacant position to join the core team.
+
+
 
 **Who can apply**
 
