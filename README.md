@@ -1,6 +1,6 @@
 # Student Contributors Program
 
-We are launching the Student Contributor Program in search of students or recent graduates who are willing to experiment with building their ideas on the Gno.land smart contract platform.
+The Gno.land Student Contributor Program offers opportunities to students or recent graduates who are interested in experimenting, exploring, and building their ideas on the Gno.land smart contract platform.
 
 The Student Contributor Program runs 3 to 4 months.
 
