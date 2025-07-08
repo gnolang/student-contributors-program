@@ -35,7 +35,7 @@ You can experiment by building:
 
 
 
-## Program Dates (2024) (1st Cohort)
+## Program Structure
 
 Onboarding: 1 week
 
