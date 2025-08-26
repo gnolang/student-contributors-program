@@ -4,7 +4,7 @@ The Gno.land Student Contributor Program offers opportunities to students or rec
 
 The Student Contributor Program runs 3 to 6 months.
 
-Size of the Cohort: (Ideally) Up to 6 students per university
+Size of the Cohort: (Ideally) Up to 6 students per cohort
 
 
 
